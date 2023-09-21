@@ -105,3 +105,13 @@ deploy:
   type: 'git'
   repo: git@github.com:fei-cn-xie/fei-cn-xie.github.io.git
   branch: main
+
+inject:
+  head:
+  # - <link rel="stylesheet" href="/xxx.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css">
+    <script src="/live2d-widget/autoload.js"></script>
+  bottom:
+    # - <script src="xxxx"></script>
+live2d:
+  enable: true

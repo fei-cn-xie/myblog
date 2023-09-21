@@ -1,5 +1,5 @@
 /* global Fluid */
-
+// src="/live2d-widget/autoload.js"
 Fluid.boot = {};
 
 Fluid.boot.registerEvents = function() {
