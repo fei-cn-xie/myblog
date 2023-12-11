@@ -5,9 +5,15 @@ top: false
 cover: false
 toc: true
 mathjax: true
-summary: 
 tag: diary
 categories: Diary
 conmments: true
-index_img: /img/
 ---
+
+> - 日记：D
+> - 总结反思：S
+> - 技术文章：T
+> - 读书笔记：R
+> - 效率管理：E
+>
+> `index_img: /img/`; `summary:` 
